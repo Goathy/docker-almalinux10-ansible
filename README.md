@@ -1,5 +1,7 @@
 # AlmaLinux 10 Ansible Test Image
 
+[![Build](https://github.com/Goathy/docker-almalinux10-ansible/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Goathy/docker-almalinux10-ansible/actions/workflows/build.yml)
+
 AlmaLinux 10 Docker container for Ansible playbook and role testing.
 
 ## Tags
