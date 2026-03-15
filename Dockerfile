@@ -1,7 +1,7 @@
 FROM almalinux:10
 LABEL maintainer="Jakub Gałecki"
-LABEL org.opencontainers.image.source https://github.com/goathy/docker-almalinux10-ansible
-ENV container=docker
+LABEL org.opencontainers.image.source="https://github.com/goathy/docker-almalinux10-ansible"
+ENV container="docker"
 
 ENV pip_packages="ansible"
 
